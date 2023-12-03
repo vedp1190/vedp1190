@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vedp1190/vedp1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hey I'm Ved, a Systems Design Engineering Student at University of Waterloo. I'm currently looking for Software Development Intern opportunities for Summer 2024!
 
 💻 Currently I am learning and getting better at my technical skills with Python and working on ML projects
