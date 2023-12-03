@@ -8,4 +8,6 @@
 
 ☀️ In my free time, I love to play soccer, go on a new adventure, or sit back and listen to some music!
 
-✉️ You can reach me at: - LinkedIn: https://www.linkedin.com/in/vedp09/ - Email: patelved1190@gmail.com
+✉️ You can reach me at: 
+- LinkedIn: https://www.linkedin.com/in/vedp09/
+- Email: patelved1190@gmail.com
