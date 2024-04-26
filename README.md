@@ -2,7 +2,7 @@
 
 👋 I'm a Systems Design Engineering Student at University of Waterloo. I'm currently looking for Software Development Intern opportunities for Winter 2025!
 
-👨🏽‍💻 This Summer I will be a SWE intern at Manulife Financial. Previosly I have interned at Escape as a SWE intern and Viral Nation as ML intern.
+👨🏽‍💻 This Summer I will be a SWE intern at Manulife Financial. Previously I have interned at Escape as a SWE intern and Viral Nation as ML intern.
 
 💻 Currently I am learning and getting better at my technical skills with Python and working on ML projects.
 
