@@ -1,6 +1,6 @@
 ### Hey, I am Ved 👋
 
-👋 I'm a Systems Design Engineering Student at University of Waterloo. I'm currently looking for Software Development Intern opportunities for Winter 2025!
+👋 I'm a Systems Design Engineering Student at University of Waterloo. I'm currently looking for Software Development Intern opportunities for Summer/Fall 2025!
 
 👨🏽‍💻 This Winter I will be interning at Wealthsimple. Previously I have also interned at Manulife Financial as a SWE Intern, Escape as a SWE intern and Viral Nation as ML intern.
 
